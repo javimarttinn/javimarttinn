@@ -20,7 +20,7 @@ I have a hybrid profile combining **Backend Architecture** (Java/Spring), **Syst
 
 ### Contact Me ✉
 <p align="center">
-  <a href="https://linkedin.com/in/javimartin">
+  <a href="https://linkedin.com/in/enprocesodecreacion">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
