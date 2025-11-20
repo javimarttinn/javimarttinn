@@ -1,45 +1,37 @@
-<div align="center">
-  
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td width="60%" style="border: none; vertical-align: middle;">
+### Hi there!, I'm Javier 👋
+<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "280px"></picture>
+I am Javier, a Computer Engineering student at the **University of Salamanca (USAL)** passionate about building robust software and automating processes for real-world challenges.
 
-# Hi there, I'm Javier 👋
+I have a hybrid profile combining **Backend Architecture** (Java/Spring), **Systems Security** (Linux/Cisco), and **AI Automation**. I excel in adapting to new technologies and am committed to delivering high-quality solutions, from native iOS apps to secure server infrastructures.
 
-I am a Computer Engineering student at the **University of Salamanca (USAL)** with a passion for **Backend Architecture**, **Systems Security**, and **Process Automation**.
+### About me ⚡
+📚 Finalizing Computer Engineering Degree at the University of Salamanca.
+<br />
+🛡️ **Cisco Certified** (CCST) & specialized in OT Security.
+<br />
+💻 Looking for **Junior Software Engineer** or **SysAdmin** roles.
 
-
-- 🛡️ **Cisco Certified** in Cybersecurity & OT Security specialist.
-
-<div align="left">
-  <a href="https://linkedin.com/in/javimartin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+### My tech stack(s)🛠
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,mysql,postgres,perl,js,react,html,css,swift,git,github,docker,figma,postman,linux,bash,vscode&perline=11" />
   </a>
-</div>
+</p>
 
-</td>
-<td width="40%" style="border: none; vertical-align: middle;">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation"/>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,swift,cpp,c,js,react,html,css,linux,docker,mysql,postgres,git,github,figma,bash,perl,vscode&perline=10" />
-</div>
+### Contact Me ✉
+<p align="center">
+  <a href="https://linkedin.com/in/javimartin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <br/>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/javimarttinn/javimarttinn/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%"/>
-</div>
-
-</div>
+### 🐍 Contribution
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javimarttinn/javimarttinn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javimarttinn/javimarttinn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/javimarttinn/javimarttinn/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
