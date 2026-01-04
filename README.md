@@ -18,7 +18,7 @@ I have a hybrid profile combining **Backend Architecture** (Java/Spring), **Syst
   </a>
 </p>
 
-### Contact Me ✉
+### Contact Me 
 <p align="center">
   <a href="https://linkedin.com/in/enprocesodecreacion">
     <img src="https://skillicons.dev/icons?i=linkedin" />
