@@ -2,14 +2,13 @@
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "280px"></picture>
 I am Javier, a Computer Engineering student at the **University of Salamanca (USAL)** passionate about building robust software and automating processes for real-world challenges.
 
-I have a hybrid profile combining **Backend Architecture** (Java/Spring), **Systems Security** (Linux/Cisco), and **AI Automation**. I excel in adapting to new technologies and am committed to delivering high-quality solutions, from native iOS apps to secure server infrastructures.
+I have a hybrid profile combining **Backend and Frontend Architecture** (Java/Spring/Angular), **Systems Security** (Linux/Cisco), and **AI Automation**. I excel in adapting to new technologies and am committed to delivering high-quality solutions, from native iOS apps to secure server infrastructures.
 
 ### About me ⚡
 📚 Finalizing Computer Engineering Degree at the University of Salamanca.
 <br />
 🛡️ **Cisco Certified** (CCST) & specialized in OT Security.
 <br />
-💻 Looking for **Junior Software Engineer** or **SysAdmin** roles.
 
 ### My tech stack(s)🛠
 <p align="center">
