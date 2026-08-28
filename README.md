@@ -19,7 +19,7 @@ I have a hybrid profile combining **Backend and Frontend Architecture** (Java/Sp
 
 ### Contact Me 
 <p align="center">
-  <a href="https://linkedin.com/in/enprocesodecreacion">
+  <a href="www.linkedin.com/in/javier-martin-jimenez">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
